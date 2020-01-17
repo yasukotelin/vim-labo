@@ -1,10 +1,10 @@
-# vim-labo-image
+# vim-labo
 
-[English]
+[English]<br>
 Become able to use the vim is latest version using this docker image.
 And you can use this for testing vim and plugins.
 
-[Japanese]
+[Japanese]<br>
 最新のVimを使えるようになるDockerイメージです。
 Vimを試したり、プラグインを試したりする用にぜひ使ってください。
 
