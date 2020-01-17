@@ -13,20 +13,20 @@ Vimを試したり、プラグインを試したりする用にぜひ使って�
 git clone
 
 ```
-git clone github.com/yasukotelin/docker-vim-image
-cd docker-vim-image
+git clone github.com/yasukotelin/vim-labo
+cd vim-labo
 ```
 
 docker build
 
 ```
-docker build -t --name vim .
+docker build -t --name vim-labo .
 ```
 
 docker run
 
 ```
-docker run -it vim /bin/bash
+docker run -it vim-labo /bin/bash
 ```
 
 ## Author
